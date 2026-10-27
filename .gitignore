@@ -1,0 +1,8 @@
+# the built binary
+/plus-one-server
+
+Dockerfile
+cloudbuild.yaml
+.gcloudignore
+# tests stay local
+*_test.go
